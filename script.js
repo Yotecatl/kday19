@@ -6,7 +6,7 @@ const config = {
     },
     'description': {
         'title': '¿Quienes somos?',
-        'image': 'descripcion_guitarra.jpg',
+        'image': 'localG.jpg',
         'text_description': 'Somos los que venden las guitarras mas chidas.'
     },
     'catalog': {

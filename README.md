@@ -1,2 +1,2 @@
 # kday19
-landing creada el kodeday de comedia 
+landing creada el kodeday de Kodemia
